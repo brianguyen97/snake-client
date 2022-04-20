@@ -21,13 +21,6 @@ const connect = function () {
     conn.write("Name: BN");
   });
 
-  /*
-  Move up as soon as connected to server
-  conn.on("connect", () => {
-    conn.write("Move: up");
-  });
-  */
-
   return conn;
 };
 
