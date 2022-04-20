@@ -8,9 +8,11 @@ Before you can run this client, you will need to be running the server side whic
 
 ## Final Product
 
-![Example of Game](https://imgur.com/8TLCiYZ)
+![Example of Game](https://raw.githubusercontent.com/brianguyen97/snake-client/main/snakeSS.png)
 
 ## Getting Started
 
 - Follow steps inside the snek server repo to run the server side
 - Run the development snake client using the `node play.js` command.
+- Use the WASD keys to move
+- Use Z, X and C to display messages
