@@ -6,6 +6,8 @@ This is simply a multiplayer take on the genre.
 
 Before you can run this client, you will need to be running the server side which you can download and install from here.
 
+https://github.com/lighthouse-labs/snek-multiplayer
+
 ## Final Product
 
 ![Example of Game](https://raw.githubusercontent.com/brianguyen97/snake-client/main/snakeSS.png)
@@ -13,6 +15,6 @@ Before you can run this client, you will need to be running the server side whic
 ## Getting Started
 
 - Follow steps inside the snek server repo to run the server side
-- Run the development snake client using the `node play.js` command.
+- Run the development snake client using the `node play` command.
 - Use the WASD keys to move
 - Use Z, X and C to display messages
